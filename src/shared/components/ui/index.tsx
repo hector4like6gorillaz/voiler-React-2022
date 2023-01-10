@@ -1,3 +1,4 @@
 import Button from "./Button";
+import DropdownHOC from "./DropdownHOC";
 
-export { Button };
+export { Button, DropdownHOC };

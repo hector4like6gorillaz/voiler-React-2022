@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
+import HomeModule from "../../modules/home/HomeModule";
 
 const index = () => {
-  return (
-    <div>index</div>
-  )
-}
+  return <HomeModule />;
+};
 
-export default index
+export default index;
